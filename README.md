@@ -16,7 +16,7 @@
 
 ### I'm currently learning
 - Machine learning with Python and Tensorflow
-- Functional programming based on lambda calculus
+- I'm catching up with React after a while
 - I'm catching up with Flutter 2.0
 <!--
 **Anidem1995/Anidem1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
